@@ -20,6 +20,7 @@ else
 	sudo mv VIDEA_update/VIDEA ./
 	sudo mv VIDEA_update/version.ver version
 	sudo rm -r VIDEA_update
+ 	sudo chmod +x VIDEA
 	sudo rm update.sh
 	echo "Updated successfully!"
 fi
