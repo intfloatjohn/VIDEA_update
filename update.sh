@@ -18,7 +18,7 @@ else
 	sudo rm VIDEA
 	sudo rm  version/version.ver
 	sudo mv VIDEA_update/VIDEA ./
-	sudo mv VIDEA_update/version.ver ./
+	sudo mv VIDEA_update/version.ver version
 	sudo rm -r VIDEA_update
 	sudo rm update.sh
 	echo "Updated successfully!"
