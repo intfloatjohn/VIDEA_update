@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the expected version string
-expected_version="0.0.3"
+expected_version="0.0.4"
 
 # Path to the version file
 version_file="version/version.ver"
